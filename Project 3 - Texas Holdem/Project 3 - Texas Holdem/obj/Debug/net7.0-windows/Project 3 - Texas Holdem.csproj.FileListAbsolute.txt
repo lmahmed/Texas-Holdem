@@ -1,0 +1,35 @@
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\bin\Debug\net7.0-windows\Project 3 - Texas Holdem.exe
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\bin\Debug\net7.0-windows\Project 3 - Texas Holdem.deps.json
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\bin\Debug\net7.0-windows\Project 3 - Texas Holdem.runtimeconfig.json
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\bin\Debug\net7.0-windows\Project 3 - Texas Holdem.dll
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\bin\Debug\net7.0-windows\Project 3 - Texas Holdem.pdb
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.csproj.AssemblyReference.cache
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project_3___Texas_Holdem.Form1.resources
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.csproj.GenerateResource.cache
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.AssemblyInfoInputs.cache
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.AssemblyInfo.cs
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.csproj.CoreCompileInputs.cache
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.dll
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\refint\Project 3 - Texas Holdem.dll
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.pdb
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.genruntimeconfig.cache
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project2-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\ref\Project 3 - Texas Holdem.dll
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\bin\Debug\net7.0-windows\Project 3 - Texas Holdem.exe
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\bin\Debug\net7.0-windows\Project 3 - Texas Holdem.deps.json
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\bin\Debug\net7.0-windows\Project 3 - Texas Holdem.runtimeconfig.json
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\bin\Debug\net7.0-windows\Project 3 - Texas Holdem.dll
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\bin\Debug\net7.0-windows\Project 3 - Texas Holdem.pdb
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project_3___Texas_Holdem.Form1.resources
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project_3___Texas_Holdem.Properties.Resources.resources
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.csproj.GenerateResource.cache
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.AssemblyInfoInputs.cache
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.AssemblyInfo.cs
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.csproj.CoreCompileInputs.cache
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.dll
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\refint\Project 3 - Texas Holdem.dll
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.pdb
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.genruntimeconfig.cache
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\ref\Project 3 - Texas Holdem.dll
+C:\Users\Latif Ahmed\Documents\GitHub\cis297-winter2023-project3-lmahmed\Project 3 - Texas Holdem\Project 3 - Texas Holdem\obj\Debug\net7.0-windows\Project 3 - Texas Holdem.sourcelink.json

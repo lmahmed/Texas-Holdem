@@ -1,0 +1,7 @@
+C:\Users\Latif Ahmed\Desktop\Project 3 - Texas Holdem.pdb
+C:\Users\Latif Ahmed\Desktop\D3DCompiler_47_cor3.dll
+C:\Users\Latif Ahmed\Desktop\PenImc_cor3.dll
+C:\Users\Latif Ahmed\Desktop\PresentationNative_cor3.dll
+C:\Users\Latif Ahmed\Desktop\vcruntime140_cor3.dll
+C:\Users\Latif Ahmed\Desktop\wpfgfx_cor3.dll
+C:\Users\Latif Ahmed\Desktop\Project 3 - Texas Holdem.exe

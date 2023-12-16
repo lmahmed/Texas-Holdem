@@ -1,0 +1,240 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Project_3___Texas_Holdem</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>card back blue.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="card back blue.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\queen_of_spades2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\queen_of_hearts2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\queen_of_diamonds2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\queen_of_clubs2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\king_of_spades2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\king_of_hearts2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\king_of_diamonds2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\king_of_clubs2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\jack_of_spades2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\jack_of_hearts2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\jack_of_diamonds2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\jack_of_clubs2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ace_of_spades.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ace_of_hearts.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ace_of_diamonds.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ace_of_clubs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\10_of_spades.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\10_of_hearts.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\10_of_diamonds.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\10_of_clubs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\9_of_spades.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\9_of_hearts.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\9_of_diamonds.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\9_of_clubs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\8_of_spades.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\8_of_hearts.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\8_of_diamonds.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\8_of_clubs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\7_of_spades.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\7_of_hearts.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\7_of_diamonds.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\7_of_clubs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\6_of_spades.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\6_of_hearts.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\6_of_diamonds.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\6_of_clubs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\5_of_spades.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\5_of_hearts.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\5_of_diamonds.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\5_of_clubs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\4_of_spades.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\4_of_hearts.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\4_of_diamonds.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\4_of_clubs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\3_of_spades.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\3_of_hearts.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\3_of_diamonds.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\3_of_clubs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\2_of_spades.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\2_of_hearts.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\2_of_diamonds.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\2_of_clubs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
